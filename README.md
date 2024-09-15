@@ -5,6 +5,6 @@ The webpage is hosted on Github pages. [Click here](https://abdulwahab-aka-proto
 
 ![Screenshot (266)](https://github.com/user-attachments/assets/8d738620-a962-4121-8d9b-0cadf8508f84)
 
-P.S I intend to work on the backend soon (Either connect to my own database or Link it to another via API)
+P.S I intend to work on the backend soon :)
 
 Thanks.
